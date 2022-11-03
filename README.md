@@ -1,2 +1,2 @@
-# belajar-web-pair
+# belajar-web
 ini untuk belajar menggunakan github
